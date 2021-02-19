@@ -48,6 +48,7 @@ html,body{
     opacity: 1;
 }
 .madeby{
+    transform:translateY(950px) ;
     text-align: center;
     color:black;
 }
@@ -61,7 +62,7 @@ html,body{
 }
 section.descricao{
     padding: 5px;
-    width: 45%;
+    width: 48%;
     border-radius: 5px;
     background-color: rgb(211, 211, 211);
     position: relative;
@@ -92,3 +93,12 @@ section.contato{
 section.contato h1{
     margin-bottom: 10px;
 }
+
+
+
+
+/* TESTE PARA SEPARAR OS CONTEUDOS DA PAGINA */
+section{
+        height: 100vh;
+        
+} 
