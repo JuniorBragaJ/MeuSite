@@ -29,7 +29,7 @@ html,body{
 .img img{
     width: 80%;
     border-radius: 50%;
-    border: 5px solid rgb(250, 219, 118);
+    border: 5px solid rgb(163, 133, 35);
 }
 .menu{
     margin: 20px;
@@ -48,8 +48,9 @@ html,body{
     opacity: 1;
 }
 .madeby{
+    transform: translateY(18vw);
     text-align: center;
-    color:black;
+    color:rgb(163, 133, 35);
 }
 .content{
     background-color: rgb(240, 240, 240);
