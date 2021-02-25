@@ -57,7 +57,7 @@ html,body{
     position: absolute;
     left: 15%;
     width: 85%;
-    height: 300%;
+    height: 100%;
     padding: 0 3%;
 }
 section.descricao{
@@ -67,6 +67,7 @@ section.descricao{
     background-color: rgb(211, 211, 211);
     position: relative;
     top: 5%;
+    height: 10%;
 }
 section.descricao h2{
     margin-bottom: 10px;
@@ -84,11 +85,11 @@ section.trabalhos{
     position: relative;
     padding: 5px;
     width: 40%;
-    top: 10%;
+    top: 30%;
 }
 section.contato{
     position: relative;
-    top: 25%;
+    top: 70%;
 }
 section.contato h1{
     margin-bottom: 10px;
@@ -98,7 +99,4 @@ section.contato h1{
 
 
 /* TESTE PARA SEPARAR OS CONTEUDOS DA PAGINA */
-section{
-        height: 100vh;
-        
-} 
+
