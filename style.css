@@ -48,7 +48,11 @@ html,body{
     opacity: 1;
 }
 .madeby{
+<<<<<<< HEAD
     transform: translateY(18vw);
+=======
+    transform:translateY(950px) ;
+>>>>>>> f221bfc9a56ec4473f95e3f3f481a196fe546049
     text-align: center;
     color:rgb(163, 133, 35);
 }
@@ -57,16 +61,17 @@ html,body{
     position: absolute;
     left: 15%;
     width: 85%;
-    height: 300%;
+    height: 100%;
     padding: 0 3%;
 }
 section.descricao{
     padding: 5px;
-    width: 45%;
+    width: 48%;
     border-radius: 5px;
     background-color: rgb(211, 211, 211);
     position: relative;
     top: 5%;
+    height: 10%;
 }
 section.descricao h2{
     margin-bottom: 10px;
@@ -84,12 +89,18 @@ section.trabalhos{
     position: relative;
     padding: 5px;
     width: 40%;
-    top: 10%;
+    top: 30%;
 }
 section.contato{
     position: relative;
-    top: 25%;
+    top: 70%;
 }
 section.contato h1{
     margin-bottom: 10px;
 }
+
+
+
+
+/* TESTE PARA SEPARAR OS CONTEUDOS DA PAGINA */
+
